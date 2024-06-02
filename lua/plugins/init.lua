@@ -81,9 +81,7 @@ return {
         "nvim-treesitter/nvim-treesitter",
         build = ":TSUpdate",
         config = function ()
-            require 'nvim-treesitter.install'.compilers = { "clang" }
             local configs = require("nvim-treesitter.configs")
-
             configs.setup({
                 ensure_installed = { "typescript", "css", "lua", "vim", "vimdoc", "gdscript", "godot_resource", "rust" },
                 sync_install = false,

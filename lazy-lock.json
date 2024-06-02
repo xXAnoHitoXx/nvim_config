@@ -6,7 +6,7 @@
   "fd": { "branch": "master", "commit": "3cd73d79272206f25c86d1a30538402cbecf8b78" },
   "feline.nvim": { "branch": "master", "commit": "3587f57480b88e8009df7b36dc84e9c7ff8f2c49" },
   "harpoon": { "branch": "master", "commit": "ccae1b9bec717ae284906b0bf83d720e59d12b91" },
-  "lazy.nvim": { "branch": "main", "commit": "31ddbea7c10b6920c9077b66c97951ca8682d5c8" },
+  "lazy.nvim": { "branch": "main", "commit": "b0ba3f9399bf48c86abaa4db1a40bd0b681d5018" },
   "lsp-zero.nvim": { "branch": "v3.x", "commit": "ca9eaccc154578064366d99de7b02f8231c383eb" },
   "markdown-preview.nvim": { "branch": "master", "commit": "a923f5fc5ba36a3b17e289dc35dc17f66d0548ee" },
   "mason-lspconfig.nvim": { "branch": "main", "commit": "44509689b9bf3984d729cc264aacb31cb7f41668" },
