@@ -7,7 +7,7 @@ return {
 
     'nvim-tree/nvim-web-devicons',
     'nvim-tree/nvim-tree.lua',
-    'famiu/feline.nvim',
+    'freddiehaddad/feline.nvim',
     "folke/tokyonight.nvim",
     'tpope/vim-fugitive',
 
